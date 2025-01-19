@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Ivan!</h1>
+
+<h2>👨‍💻Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/CodeFox2/URL)
+  - [2D Game in Java (In Progress)](https://github.com/CodeFox2/URL)
+
+<h2>📄Certifications:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: [https://www.linkedin.com/in/ivan-wu-/]
 
 <!--
-**CodeFox2/CodeFox2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodeFox2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
