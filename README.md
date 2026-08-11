@@ -3,7 +3,6 @@
 <h2>👨‍💻Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/CodeFox2/ActiveDirectoryLab/blob/main/README.md)
-  - [2D Game in Java (In Progress)](URL)
 
 <h2>📄Certifications:</h2>
 <p>CCNA (In progress)</p>
