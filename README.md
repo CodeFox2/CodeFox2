@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/CodeFox2/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>📄Certifications:</h2>
-<a href="https://app.riipen.com/teams/8ODZxpyL/certificates/YLrRPjGL">Riipen Level Up IT Support Enhancement Project</a>
+<p>Riipen Level Up - IT Support Enhancement Project Certificate of Completion and Endorsement</p>
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: [https://www.linkedin.com/in/ivan-wu-/]
